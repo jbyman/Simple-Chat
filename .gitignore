@@ -1,0 +1,10 @@
+*.swp
+tags
+*/tags
+client/tags
+server/tags
+node_modules
+*/node_modules
+client/node_modules
+*/.DS_Store
+.DS_Store

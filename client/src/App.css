@@ -1,0 +1,17 @@
+.main {
+  text-align: center;
+}
+
+.main_header{
+  font-size: 40px;
+}
+
+.prompt{
+	display: inline;
+	margin-right: 30px;
+}
+
+.prompt input {
+	display: inline;
+	padding-bottom: 50px;
+}
